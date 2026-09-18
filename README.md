@@ -1,3 +1,17 @@
+## Screenshots
+
+### Home Screen
+![Home Screen](2026-09-18%20(16).png)
+
+### Add Task Screen
+![Add Task Screen](2026-09-18%20(17).png)
+
+### Task Details Screen
+![Task Details Screen](2026-09-18%20(18).png)
+
+### Completed Task Status
+![Completed Task Status](2026-09-18%20(19).png)
+
 # Study Planner App
 
 A React Native mobile application built with Expo for managing study tasks and personal activities.
